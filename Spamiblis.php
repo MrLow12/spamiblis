@@ -14,7 +14,7 @@ function send($phone){
 echo "
 ############################################################
     Spammer Call From BHFCI[OFC]
-        Author By   : ZakkiXploit
+        Author By   : ZakkiXploit:)
         Thanks to   :  BHFCI
      Penggunaannya  : Bisa Menggunakan [08/+62]
 ###########################################################\n";
